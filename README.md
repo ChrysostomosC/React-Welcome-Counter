@@ -1,10 +1,10 @@
 # Getting Started with Create React App
 
-React Counter & Greeting App
-A simple React project where you can:
-✅ Increase or decrease a counter dynamically 🔢
-✅ Enter a greeting message and display it on the screen 👋
-Built with React and styled for a clean and smooth user experience.
+## React Counter & Greeting App
+A simple React project where you can:<br />
+✅ Increase or decrease a counter dynamically 🔢<br />
+✅ Enter a greeting message and display it on the screen 👋<br />
+Built with React and styled for a clean and smooth user experience.<br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
